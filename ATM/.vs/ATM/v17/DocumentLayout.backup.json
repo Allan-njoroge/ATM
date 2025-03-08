@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\",
+  "WorkspaceRootPath": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|d:\\school\\sem 2.2\\application programming\\atm\\atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|d:\\school\\sem 2.2\\application programming\\atm\\atm\\atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|solutionrelative:atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|d:\\school\\sem 2.2\\application programming\\atm\\atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|d:\\school\\sem 2.2\\application programming\\atm\\atm\\atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{B19DFC4C-1D5A-420E-B19D-FA230205C1C1}|ATM\\ATM.vbproj|solutionrelative:atm\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.vb",
-              "DocumentMoniker": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\Login.vb",
+              "DocumentMoniker": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\ATM\\Login.vb",
               "RelativeDocumentMoniker": "ATM\\Login.vb",
-              "ToolTip": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\Login.vb",
+              "ToolTip": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\ATM\\Login.vb",
               "RelativeToolTip": "ATM\\Login.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-05T16:07:50.007Z",
               "EditorCaption": ""
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.vb [Design]",
-              "DocumentMoniker": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\Login.vb",
+              "DocumentMoniker": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\ATM\\Login.vb",
               "RelativeDocumentMoniker": "ATM\\Login.vb",
-              "ToolTip": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\Login.vb [Design]",
+              "ToolTip": "D:\\school\\Sem 2.2\\Application Programming\\ATM\\ATM\\ATM\\Login.vb [Design]",
               "RelativeToolTip": "ATM\\Login.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-05T16:07:04.968Z",
